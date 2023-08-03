@@ -16,7 +16,7 @@
 </p>
 
 <div align="center">
-  <sub>Organo. Feito com 💜 por
+  <sub>Pokedex. Feito com 💜 por
     <a href="https://github.com/brunommorales">Bruno Morales</a> e
       contribuidores
     </a>
